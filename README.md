@@ -1,4 +1,4 @@
-# h5ai Themes
+# h5ai-themes
 
 These icon themes were previously shipped with [h5ai](https://github.com/lrsjng/h5ai).
 Put these theme folders into folder `_h5ai/client/themes` of your h5ai installation,
