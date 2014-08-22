@@ -11,6 +11,6 @@ Currently there are two themes included:
 * `evolvere` based on [Evolvere&nbsp;Icon&nbsp;Theme][evolvere]&nbsp;(CC BY-NC-ND 3.0)
 * `faenza` based on [Faenza&nbsp;Icons][faenza]&nbsp;(GPL)
 
-[h5ai]: https://github.com/lrsjng/h5ai (a modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee)
+[h5ai]: http://larsjung.de/h5ai/ (a modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee)
 [evolvere]: http://franksouza183.deviantart.com/art/Evolvere-Icon-theme-440718295
 [faenza]: http://tiheum.deviantart.com/art/Faenza-Icons-173323228
